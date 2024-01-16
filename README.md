@@ -1,5 +1,5 @@
 # 숫자 맞추기 게임
-![project1](https://github.com/sangwon976/project1/assets/137680565/510bae59-cc54-4ecb-96bf-fc18e9bc04fd)
+<img src="https://github.com/sangwon976/project1/assets/137680565/510bae59-cc54-4ecb-96bf-fc18e9bc04fd" width="400" height="400"/>
 
 술게임 up down 에서 영감을 받은 프로젝트
 
